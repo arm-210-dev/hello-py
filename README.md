@@ -15,6 +15,8 @@ Welcome to my Python Bootcamp repository.
 - ✅ STD09
 - ✅ STD10
 - ✅ STD11
+- ✅ STD12
+
 
 ---
 
