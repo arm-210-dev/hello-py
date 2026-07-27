@@ -16,7 +16,10 @@ Welcome to my Python Bootcamp repository.
 - ✅ STD10
 - ✅ STD11
 - ✅ std12
-
+- ✅ std13
+- ✅ std14
+- ✅ std15
+- ✅ std16
 
 ---
 
